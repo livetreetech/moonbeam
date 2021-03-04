@@ -6,7 +6,7 @@ Do you agree to open source all work you do on behalf of this RFP and dual-licen
 
 ## Project Description
 
-As part of creating a fair web we will utilise Moonbeam as initially a bridge to the Polkdot/Substrate eco-system from our existing Ethereum code base The bridge provides access to Polkadot functionality which we will use a) for the governance of crowdfunds and b) governance of big data related to recommendation engines.  In the first instance, the crowdfunds relate to raising money to help combat the climate and bio-diversity crisis’ we are humanity face today.  The funds will be raised via thought-leader/influencer/branded sustainability focused short form videos, documentaries and long-form films which will use our existing video streaming infrastructure. Furthermore, the governance of big-data primarily focused on royalty payments, programmatic ads and recommendation engines will be developed to decentralise how our data is used online and help fulfil the vision of web 3.0. We anticipate wide adoption as we already have a fairly significant footprint and have a network of content providers that have a reach of 4 million people in addition to the fact that there is currently no simple way to capture and ingest live video, video and related web meta-data to effectively enable decentralised marketplaces and machine learning tools.
+As part of creating a fair web we will utilise Moonbeam as initially a bridge to the Polkdot/Substrate eco-system from our existing Ethereum code base The bridge provides access to Polkadot functionality which we will use a) for the governance of crowdfunds and b) governance of big data related to recommendation engines.  In the first instance, the crowdfunds relate to raising money to help combat the climate and bio-diversity crisis’ we as humanity face today.  The funds will be raised via thought-leader/influencer/branded sustainability focused short form videos, documentaries and long-form films which will use our existing video streaming infrastructure. Furthermore, the governance of big-data primarily focused on royalty payments, programmatic ads and recommendation engines will be developed to decentralise how our data is used online and help fulfil the vision of web 3.0. We anticipate wide adoption as we already have a fairly significant footprint and have a network of content providers that have a reach of 4 million people in addition to the fact that there is currently no simple way to capture and ingest live video, video and related web meta-data to effectively enable decentralised marketplaces and machine learning tools.
 
 ## Value
 
@@ -26,13 +26,13 @@ Moonbeam has relatively low risk as the grant budget is being funded by Livetree
 
 Moonbeam has not launched its mainnet yet and we have yet to use Chainbridge in a production environment.
 
-##Deliverables
+## Deliverables
 
 A number of smart contracts developed in Solidity will be ported using the moon beam toolset. The bridged to Polkadot will serve as the foundation for the governance systems we plan to implement using Substrate.
 
 There will be several elements such as web-api, user mobile applications and angular web-apps.
 
-##Development Roadmap
+## Development Roadmap
 
 **Milestone 1**
 
@@ -98,7 +98,7 @@ Cost: $3,000
 
 Time: 4 weeks
 
-##Livetree budget
+## Livetree budget
 
     Milestone 1: $7,000
     Milestone 2: $25,000
@@ -107,8 +107,5 @@ Time: 4 weeks
 
 Total: $59,000
 
-##Maintenance and Upgrade Plans
-
-Upon project realisation, it will be open source so various communities will be able to extend and enhance it with additional features. Being open-source we anticipate a number of projects being able to leverage not only the source code but the data we populate.
 
  
