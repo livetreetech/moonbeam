@@ -1,12 +1,12 @@
 # Moonbeam Proposal Fair web: DAO Governance For Crowdfunds and Big Data
 
-**Proposer**: livetreetech
+**By**: Livetree.com
 
-Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?: Yes
+We will open source all relevant governance contracts and try to help the Moonbeam community by making our work dual-license under MIT and APACHE2 licenses and available through this public repo.
 
 ## Project Description
 
-As part of creating a fair web we will utilise Moonbeam as initially a bridge to the Polkdot/Substrate eco-system from our existing Ethereum code base The bridge provides access to Polkadot functionality which we will use a) for the governance of crowdfunds and b) governance of big data related to recommendation engines.  In the first instance, the crowdfunds relate to raising money to help combat the climate and bio-diversity crisis’ we as humanity face today.  The funds will be raised via thought-leader/influencer/branded sustainability focused short form videos, documentaries and long-form films which will use our existing video streaming infrastructure. Furthermore, the governance of big-data primarily focused on royalty payments, programmatic ads and recommendation engines will be developed to decentralise how our data is used online and help fulfil the vision of web 3.0. We anticipate wide adoption as we already have a fairly significant footprint and have a network of content providers that have a reach of 4 million people in addition to the fact that there is currently no simple way to capture and ingest live video, video and related web meta-data to effectively enable decentralised marketplaces and machine learning tools.
+As part of creating a fair web we will utilise Moonbeam as initially a bridge to the Polkdot/Substrate eco-system from our existing Ethereum code base The bridge provides access to Polkadot functionality which we will use a) for the governance of the seed token b) for the governance of crowdfunds and c) governance of big data related to recommendation engines.  In the first instance, seed token governance will be community driven around the value inputs and outputs, namely, how input fees from the platform are exchanged and outputs being to a decentralised exchange (provisionally as uniswap) and in the second instance the video based crowdfunds related to raising money to help combat the climate and bio-diversity crisis’ we as humanity face today.  The funds will be raised via thought-leader/influencer/branded sustainability focused short form videos, documentaries and long-form films which will use our existing video streaming infrastructure. We have been working for 3 years building our network of content providers and thought leaders and currently have a potential reach of over 4m sustainability focused community memebers. Lastly, the governance of big-data primarily focused on the video meta-data (currently being migrated to Filecoin/IPFS) to facilitate decentralising our systems for royalty payments, programmatic ads and recommendation engines. Our goal is to decentralise how our data is used online and help fulfil the vision of web 3.0. We anticipate wide adoption as we already have a fairly significant footprint (and as mentioned have a network of content providers that have a potential reach of 4 million people) in addition to the fact that there is currently no simple way to capture and ingest live video, video and related web meta-data to effectively enable decentralised marketplaces and machine learning tools.
 
 ## Value
 
@@ -20,7 +20,7 @@ We have already invested significantly into the technology of OTT video streamin
 
 ## Project risks
 
-Moonbeam has relatively low risk as the grant budget is being funded by Livetree, however, we ask Moonbeam to reward the project in GLMR tokens. Note we feel there is potential for the Moonbeam ecosystem to built out micro-products from each of our milestone outputs.
+The project has relatively low risk as the fiat budget for development is being funded by Livetree, however, we ask Moonbeam to reward the project in GLMR tokens. Note we feel there is potential for the Moonbeam ecosystem to built out micro-products from each of our milestone outputs.
 
 ## Technical risks
 
@@ -38,7 +38,7 @@ There will be several elements such as web-api, user mobile applications and ang
 
 Goals:
 
-    Migrate the existing ERC20 Seed Token to Parachain Seed Token
+    Migrate the existing ERC20 Seed Token to Parachain Seed Token / migrate governance smart contract
         2 team members to extend architecture and define specifications
         2 weeks
         $7,000
