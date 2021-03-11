@@ -1,4 +1,4 @@
-# Moonbeam Proposal Fair web: DAO Governance For Crowdfunds and Big Data
+# Moonbeam Proposal Fair web: DAO Governance
 
 **By**: Livetree.com
 
