@@ -1,4 +1,4 @@
-# Moonbeam Proposal Fair web: DAO Governance
+# Moonbeam Polkadot Substrate Proposal Fair web: DAO Governance
 
 **By**: Livetree.com
 
